@@ -10,7 +10,3 @@
 - 📫 How to reach me **bistshubham2016@gmail.com**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madnote&show_icons=true&locale=en" alt="madnote" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madnote&" alt="madnote" /></p>
-
